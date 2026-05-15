@@ -14,7 +14,19 @@ A premium directory for JavaScript resources, developer networks, and monetizati
 *Top-tier JavaScript tools, monetization platforms, and software infrastructure.*
 * **[Affiliate Brand Name](https://your-affiliate-link.com)** — Key benefit of using this tool.
 
-## 📬 Contact & Booking
-To buy a promotional slot, propose a coop partnership, or join our link network:
-* **Email:** your-business-email@example.com
+## 💰 Secure Your Placement (Instant Booking)
+Choose your slot type and pay securely below. Once paid, email your link details and transaction ID to **mr1962h@hotmail.com** to go live within 24 hours.
+
+## 💰 Secure Your Placement (Instant Booking)
+Choose your slot type and pay securely below. Once paid, email your link details and transaction ID to your PayPal email address to go live within 24 hours.
+
+* 🟢 **Standard Link Placement ($10/month):** [Pay via PayPal](https://paypal.me)
+* 🔥 **Featured Header Slot ($25/month):** [Pay via PayPal](https://paypal.me)
+
+
+## 📬 Contact & Custom Partnerships
+To propose a cooperative traffic exchange, custom affiliate program, or bundle deal:
+* **Email:**mr1962h@hotmail.com**
 * **Alternative:** Open a GitHub Issue in this repository.
+
+
